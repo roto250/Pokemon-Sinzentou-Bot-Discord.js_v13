@@ -1,0 +1,1 @@
+# Pokemon-Sinzentou-Bot-Discord.js_v13
