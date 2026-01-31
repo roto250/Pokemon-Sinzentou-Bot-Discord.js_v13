@@ -5,29 +5,34 @@
 本 Bot はサーバー運営を補助する目的で開発されており、  
 **Discord 公式・ポケモン公式とは一切関係のない非公式プロジェクト**です。
 
----
-
 ## 主な機能
 ### 🧵 スレッド作成通知
 - 指定したチャンネルでスレッドが作成された際に、  
   アナウンス用チャンネルへ通知を送信します
 - スレッドのタイトル・作成者・初回メッセージ・URL を Embed で表示
 - カテゴリごとに色・ロールメンションを変更可能
-- 
+- <img width="251" height="289" alt="image" src="https://github.com/user-attachments/assets/a366f289-8ab0-4c15-bf7f-af202db866b1" />
+ 
 ### 🔊 ボイスチャンネル参加・退出通知
 - ボイスチャンネルに参加・退出した際に通知を送信
 - ニックネーム表示対応
-- 
+<img width="293" height="158" alt="image" src="https://github.com/user-attachments/assets/0cadf915-21b7-43a4-8fc1-9aa6708b68ec" />
+  
 ### 📋 メッセージ転送・記録機能
 - 指定したサーバー内のメッセージを、別サーバー・別チャンネルへ転送
 - 投稿者名・アイコン・メッセージリンクを Embed で記録
+<img width="162" height="132" alt="image" src="https://github.com/user-attachments/assets/f7bc8348-45a9-4884-bd52-e77b50c98f62" />
 
 ### 🎴 おみくじ機能
 - `!おみくじ` コマンドでランダムな運勢を表示
+<img width="299" height="171" alt="image" src="https://github.com/user-attachments/assets/04615f88-4838-4e64-92bb-02be846266be" />
+
 
 ### 🎲 ランダムポケモン表示
 - `!ランポケ` コマンドでランダムなポケモンを表示
 - **PokeAPI** を使用して図鑑番号・名前・画像を取得
+<img width="313" height="332" alt="image" src="https://github.com/user-attachments/assets/02792610-9b80-414f-856b-bbfc6f23024b" />
+
 
 ### 🕵️ 匿名お問い合わせ機能
 - `/secretmessage` スラッシュコマンドを使用
